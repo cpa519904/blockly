@@ -1,3 +1,5 @@
+Blockly 是一个基于 Web 的可视化编程工具，只需要拖动几个图形就可以编程, 完全不需要打字. 根据项目FAQ介绍, 这个新语言的主要目的是为web应用提供宏(或脚本编 程)的支持. 可以把生成的脚本输出成java, python 等.已经有几个利用Blockly的demo.
+
 # Blockly [![Build Status]( https://travis-ci.org/google/blockly.svg?branch=master)](https://travis-ci.org/google/blockly)
 
 
